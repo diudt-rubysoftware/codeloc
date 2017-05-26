@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>example for code loc</title>
+</head>
+<body>
+	<h1>test for code loc</h1>
+</body>
+
+</html>
